@@ -7,8 +7,6 @@ data/
 venv/
 *.idea/
 *.so
-# *.yaml
-# *.sh
 *.pth
 *.pkl
 *.zip
@@ -17,12 +15,3 @@ output
 version.py
 .vscode/
 *.log
-/data/
-/data
-patchwork-plusplus/
-/patchwork-plusplus/
-/patchwork-plusplus
-openpcdet_v_0_6
-data
-*.onnx
-*.png
